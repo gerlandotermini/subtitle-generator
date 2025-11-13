@@ -1,7 +1,8 @@
 # Whisper Subtitle Generator
 
 A command line tool that generates SRT subtitles from audio or video
-files using the OpenAI Whisper model.\
+files using the OpenAI Whisper model. 
+
 The script automatically checks for ffmpeg, handles CPU or GPU
 selection, supports multiple Whisper models, and offers configurable
 options such as language, output path, and transcription or translation
@@ -41,18 +42,18 @@ On Ubuntu or Debian:
 
 ## Installation
 
-    git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-    cd YOUR_REPO_NAME
+    git clone https://github.com/gerlandotermini/subtitle-generator.git
+    cd subtitle-generator
 
 ## Usage
 
 Basic usage:
 
-    python3 genera_sottotitoli.py input.wav
+    python3 subtitles.py input.wav
 
 Full help:
 
-    python3 genera_sottotitoli.py --help
+    python3 subtitles.py --help
 
 ## License
 
