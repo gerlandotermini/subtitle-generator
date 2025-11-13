@@ -1,0 +1,44 @@
+# Audio files
+*.wav
+*.mp3
+*.m4a
+*.aac
+*.ogg
+*.flac
+
+# Video files
+*.mp4
+*.mkv
+*.mov
+*.avi
+*.wmv
+
+# Subtitles
+*.srt
+*.sub
+*.vtt
+
+# Text or logs
+*.txt
+*.log
+
+# Python cache and build files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+venv/
+.env/
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
