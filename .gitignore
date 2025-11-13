@@ -19,7 +19,6 @@
 *.vtt
 
 # Text or logs
-*.txt
 *.log
 
 # Python cache and build files
